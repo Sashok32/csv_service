@@ -1,0 +1,23 @@
+nav.navbar {
+    color: crimson;
+    font-style: italic;
+}
+.container {
+    width: 90%;
+    margin: auto;
+    margin-top: 10%;
+}
+.container .task.done {
+    background-color: rgba(203, 238, 214, 0.61);
+}
+.task p.text {
+    text-wrap: none;
+}
+.flush {
+    font-size: 20px;
+    padding: 5px 20px 5px 20px;
+    margin-bottom: 10px;
+}
+.btn-group, .sort-link {
+    color: white;
+}
